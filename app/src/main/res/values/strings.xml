@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProjectCrud</string>
+    <string name="list_kontak">List Kontak</string>
+    <string name="ichwansholihin03_gmail_com">ichwansholihin03@gmail.com</string>
+    <string name="ichwan_sholihin">Ichwan Sholihin</string>
+    <string name="_085766689697">085766689697</string>
+    <string name="jl_rajawali_gg_4">Jl. Rajawali, Gg.4</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_no_hp">Masukkan No Hp</string>
+    <string name="masukkan_alamat">Masukkan Alamat</string>
+    <string name="submit">submit</string>
+    <string name="update">update</string>
+    <string name="hapus">hapus</string>
+    <string name="lihat">lihat</string>
+</resources>
